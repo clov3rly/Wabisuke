@@ -1,6 +1,8 @@
 Rapid City NodeSchool
 ====================
 
+[![Join the chat at https://gitter.im/clov3rly/nodeschool](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/clov3rly/nodeschool?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repo contains work done by the Rapid City NodeSchool group in our journey to learn about nodejs.
 
 ### Reading
